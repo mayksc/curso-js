@@ -13,6 +13,6 @@ md = markdown
 - git clone: es descargar una copia del repo a local
 - git init: inicia en el proyecto (una vez dentro el proyecto)
 - git status: muestra los cambios que no se han guardado en GIT
-- git add: agrega los cambios a la copia local de git
+- git add .: agrega los cambios a la copia local de git
 - git commit -m " ": agregamos un comentario sobre los cambios a subir
 - git push: subir los cambios al repo al cual se apunta
