@@ -16,3 +16,9 @@ md = markdown
 - git add .: agrega los cambios a la copia local de git
 - git commit -m " ": agregamos un comentario sobre los cambios a subir
 - git push: subir los cambios al repo al cual se apunta
+- git remote -v: verificar la url a la cual se van a subir los cambios (repositorios de github)
+
+
+# HTML
+
+debe existir siempre un html con nombre "index" y este va a ser el orquestador de la visualizacion web que epuede incluir JS Y CSS
